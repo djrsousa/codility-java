@@ -1,2 +1,2 @@
-# codility-kotlin
+# codility-java
 Codility for Programmers
